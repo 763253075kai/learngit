@@ -7,3 +7,5 @@ git test2.
 
 lijinkai
 zho
+
+checkout
